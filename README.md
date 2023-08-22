@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
 <h3 align="center">A data alchemist turning raw information into actionable insights.</h3>
 
-- 🔭 I’m currently working on **NER**
+- 🔭 I’m currently working on **Building a end to end Annotation Product**
 
-- 🌱 I’m currently learning **Time Series Analysis, High Level NLP, Development Stuff**
+- 🌱 I’m currently learning **High Level NLP and Time Series Stuffs, MLOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Himanshgit5458](https://github.com/Himanshgit5458)
-
-- 📝 I regularly write articles on [blog.com](blog.com)
 
 - 💬 Ask me about **Flask, Python, DSA, Machine learning, NLP, Probabilities and stats, Time series**
 
 - 📫 How to reach me **Himansh302000@gmail.com**
 
-- 📄 Know about my experiences [resume.com](resume.com)
+- 📄 Know about my experiences [Portfolio](https://himanshgit5458.github.io/Personal-Portfolio-React/)
 
 - ⚡ Fun fact **I find correlations in data faster than they find matching socks in the morning!**
 
