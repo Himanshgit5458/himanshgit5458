@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Portfolio](https://himanshgit5458.github.io/Personal-Portfolio-React/)
 
-- ⚡ Fun fact **I find correlations in data faster than they find matching socks in the morning!**
+- ⚡ Fun fact **I find correlations in data faster than I find matching socks in the morning!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
