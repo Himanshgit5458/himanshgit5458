@@ -9,11 +9,15 @@
 
 - 💬 Ask me about **Flask, Python, DSA, Machine learning, NLP, Probabilities and stats, Time series**
 
+- 📝 I regularly write articles on [blog.com](https://medium.com/@himansh5458)
+
 - 📫 How to reach me **Himansh302000@gmail.com**
 
 - 📄 Know about my experiences [Portfolio](https://himanshgit5458.github.io/Personal-Portfolio-React/)
 
 - ⚡ Fun fact **I find correlations in data faster than I find matching socks in the morning!**
+
+- Blog ""
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
