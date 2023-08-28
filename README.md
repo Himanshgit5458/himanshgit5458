@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building a end to end Annotation Product**
 
-- 🌱 I’m currently learning **High Level NLP and Time Series Stuffs, MLOps**
+- 🌱 I’m currently learning **High Level Natural Language Processing and Time Series Stuffs, MLOps and Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Himanshgit5458](https://github.com/Himanshgit5458)
 
