@@ -19,8 +19,6 @@
 
 - ⚡ Fun fact **I find correlations in data faster than I find matching socks in the morning!**
 
-- Blog ""
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himanshugupta5458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshugupta5458" height="30" width="40" /></a>
